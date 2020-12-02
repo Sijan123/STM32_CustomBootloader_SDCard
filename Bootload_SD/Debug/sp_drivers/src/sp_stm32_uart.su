@@ -1,0 +1,6 @@
+sp_stm32_uart.c:10:6:USART_Config	16	static
+sp_stm32_uart.c:17:6:USART_Enable	16	static
+sp_stm32_uart.c:21:6:USART_SendChar	16	static
+sp_stm32_uart.c:27:6:USART_SendString	16	static
+sp_stm32_uart.c:36:6:USART_Receive	32	static
+sp_stm32_uart.c:46:6:printmsg	108	static

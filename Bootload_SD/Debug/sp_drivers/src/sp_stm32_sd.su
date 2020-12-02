@@ -1,0 +1,6 @@
+sp_stm32_sd.c:16:6:sd_init	48	static
+sp_stm32_sd.c:62:6:sd_writesingleblock	40	static
+sp_stm32_sd.c:96:6:sd_readsingleblock	32	static
+sp_stm32_sd.c:126:6:sd_sendSPI	32	static
+sp_stm32_sd.c:134:6:wait_fortoken	16	static
+sp_stm32_sd.c:140:6:dummy_byte	16	static

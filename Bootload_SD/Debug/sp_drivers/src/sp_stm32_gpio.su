@@ -1,0 +1,6 @@
+sp_stm32_gpio.c:3:6:RESET_GPIO	16	static
+sp_stm32_gpio.c:7:6:GPIO_Config	24	static
+sp_stm32_gpio.c:18:6:GPIO_Deinit	16	static
+sp_stm32_gpio.c:24:6:GPIO_Write	24	static
+sp_stm32_gpio.c:32:6:GPIO_Toggle	16	static
+sp_stm32_gpio.c:36:9:GPIO_Read	16	static

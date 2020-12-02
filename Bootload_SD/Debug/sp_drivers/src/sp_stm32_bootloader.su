@@ -1,0 +1,6 @@
+sp_stm32_bootloader.c:19:6:jumpto_app	24	static,ignoring_inline_asm
+sp_stm32_bootloader.c:38:6:bootloader_uartread	16	static
+sp_stm32_bootloader.c:68:6:bootloader_flasherase_cmd	24	static
+sp_stm32_bootloader.c:89:6:bootloader_memwrite_cmd	24	static
+sp_stm32_bootloader.c:110:6:execute_memorywrite	32	static
+sp_stm32_bootloader.c:119:6:bootloader_sendUART	32	static

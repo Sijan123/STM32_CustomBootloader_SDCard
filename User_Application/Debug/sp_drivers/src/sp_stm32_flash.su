@@ -1,0 +1,2 @@
+sp_stm32_flash.c:10:6:Flash_Write	24	static
+sp_stm32_flash.c:23:6:Flash_Erase	24	static
